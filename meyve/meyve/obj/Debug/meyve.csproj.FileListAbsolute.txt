@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\meyve\meyve\obj\Debug\meyve.csprojAssemblyReference.cache
+C:\Users\User\source\repos\meyve\meyve\obj\Debug\meyve.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\meyve\meyve\bin\Debug\meyve.exe.config
+C:\Users\User\source\repos\meyve\meyve\bin\Debug\meyve.exe
+C:\Users\User\source\repos\meyve\meyve\bin\Debug\meyve.pdb
+C:\Users\User\source\repos\meyve\meyve\obj\Debug\meyve.exe
+C:\Users\User\source\repos\meyve\meyve\obj\Debug\meyve.pdb
